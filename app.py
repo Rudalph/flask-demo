@@ -10,5 +10,3 @@ def home():
 def add(x):
     return f"sum is {x+1}"
 
-# if __name__== "__main__":
-#     app.run(debug=True, port=5000)
